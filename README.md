@@ -1,4 +1,4 @@
-# Tkinter Panel Prototype Utility
+# "Himbo", simple but pretty
 ## A class based interface to simplify prototyping programs with Tkinter GUIs 
 
 Sometimes you write a program and you aren't that worried about what the GUI looks like. I started to get frustrated that every GUI element I coded with Tkinter needed to be styled individually. I felt like I was writing the same pieces of code over and over, even though the stylistic details I was coding weren't important to me on those projects. I wanted to be able to style tkinter objects en-masse the same way that CSS can code all similar elements of a piece of HTML.
